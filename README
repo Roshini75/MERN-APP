@@ -1,0 +1,37 @@
+This is a mern stack application
+
+MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. 
+MERN Stack comprises of 4 technologies namely: MongoDB, Express, React and Node.js.
+It is designed to make the development process smoother and easier.
+
+Each of these 4 powerful technologies provides an end-to-end framework for the developers 
+to work in and each of these technologies play a big part in the development of web applications.
+
+This is a sample portfolio application
+
+steps
+ 
+1) The app consists of the pages home,profile,experience, abilities
+
+2) We have given the user previleges to the profile, experience and abilities
+
+3) First register the user
+
+4) and login with the username and password credentials or use the dummy credentials username :Rosh1996, password:Rosh@1996
+
+5) Then we will be able to get the data and display in the pages profile, experience, abilities.
+
+6) We are retriving the data from the mangodb atlas, we used mango db to store the data
+
+7)#todo
+We can extend the project for the admin and all the other roles which is almost done
+
+8) In REACT
+we have used the react-router-dom for the routing and used react-hooks and context for the user and authentication
+
+9) In Node Express
+We have used the passport jwt for the cookie authentication and the cookie for a particular user expires in 24 h,
+the session remains for 24 hours.
+
+10) This is a demo application on the MERN Stack
+
